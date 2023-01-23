@@ -1,0 +1,19 @@
+.odd-numbers{
+    background-color: rgb(196, 106, 120);
+    font-family: Vardena , "DejaVu Sans" , sans-serif;
+}
+
+#sec-line{
+    color: blue;
+    font-size: 36px;
+}
+
+.med-font-size {
+    font-size: 24px;
+}
+
+#fourth-line {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
