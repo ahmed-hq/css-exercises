@@ -19,10 +19,36 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+  margin: 0;
 }
 
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  max-width: 350px;
+  padding: 2em;
+  min-height: 200px;
+}
+
+.card-wrapper {
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+  ma
+}
+
+.layout {
+  display: flex;
+  flex-direction: column;
+}
+
+.cotent {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+
+.sidebar {
+  
 }
